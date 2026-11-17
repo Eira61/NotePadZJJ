@@ -1,0 +1,4 @@
+<resources>
+    <!-- 用系统自带主题，避免再引入 Material 依赖，保证空依赖也能编译 -->
+    <style name="Theme.NotePad" parent="@android:style/Theme.Material.Light.NoActionBar" />
+</resources>

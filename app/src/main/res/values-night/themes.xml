@@ -1,0 +1,4 @@
+<resources>
+    <!-- 夜间模式同样使用系统主题，避免引入 Material 依赖 -->
+    <style name="Base.Theme.NotePad" parent="@android:style/Theme.Material.NoActionBar" />
+</resources>
